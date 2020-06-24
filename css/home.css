@@ -1,0 +1,73 @@
+.navbar,
+.btn-search,
+.btn-readmore {
+    background-color: rgb(0, 39, 78);
+    color: white;
+}
+
+.nav-link {
+    color: whitesmoke;
+}
+
+marquee {
+    /* background-color: rgb(0, 39, 78); */
+    color: rgb(0, 39, 78);
+    /* border: 1px solid black; */
+}
+
+.blog-container,
+.success-container {
+    text-align: center;
+    border: 1px solid black;
+    background-color: rgb(246, 246, 246);
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding-bottom: 1%;
+}
+
+.blog-container h3,
+.success-container h3 {
+    padding: 3%;
+}
+
+.studyhome-container,
+.internship-container {
+    text-align: center;
+    border: 1px solid black;
+    margin: 5%, 5%;
+    padding: 1%;
+    background-color: rgb(246, 246, 246);
+}
+
+.row div center {
+    /* color: rebeccapurple; */
+    margin-top: 6%;
+}
+
+footer {
+    background-color: rgb(0, 39, 78);
+}
+
+li a {
+    color: whitesmoke;
+}
+
+li,
+h5,
+h6,
+h2 {
+    color: white;
+}
+
+.footer-copyright {
+    color: white;
+}
+
+.btn-send {
+    color: rgb(0, 39, 78);
+    background-color: white;
+}
+
+.success-img {
+    width: 50%;
+}
