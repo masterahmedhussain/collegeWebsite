@@ -1,3 +1,3 @@
 # collegeWebsite
 
-A Full Loaded design dor the college website..
+A Full Loaded design for the college website..
