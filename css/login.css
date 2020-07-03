@@ -193,7 +193,7 @@ input {
 }
 
 .overlay-left {
-    transform: translateX(-20%);
+    transform: translateX(0%);
 }
 
 .container.right-panel-active .overlay-left {
